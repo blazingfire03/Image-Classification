@@ -12,7 +12,7 @@ Cutting-edge Machine Learning Algorithms:  employs state-of-the-art machine lear
 
 Rigorous Model Training: The project involves a rigorous process of model training and validation. A team of botanists and data scientists collaborates to annotate and verify the image dataset, enhancing the model's ability to correctly identify flowers across different environmental conditions and camera angles.
 
-User-friendly Interface: FloralAI offers an intuitive and user-friendly web or mobile interface. Enthusiasts, amateur botanists, and nature lovers can effortlessly upload their flower images. The system promptly provides identification results, along with detailed information about the recognized species, including scientific and common names, habitat, and care tips.
+User-friendly Interface: It  offers an intuitive and user-friendly web or mobile interface. Enthusiasts, amateur botanists, and nature lovers can effortlessly upload their flower images. The system promptly provides identification results, along with detailed information about the recognized species, including scientific and common names, habitat, and care tips.
 
 Educational Resources: Beyond flower identification, FloralAI is committed to educating users about the fascinating world of botany. The platform features informative articles, guides, and resources on topics such as flower cultivation, gardening, and conservation, promoting a deeper understanding of plant life.
 
